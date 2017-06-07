@@ -46,3 +46,4 @@ demo_app/data.db
 
 TAGS*
 *.swp
+.vscode
